@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning data Course Project README file"
-output: html_document
----
+## Getting and Cleaning data Course Project README
 
 
 ** The repository contains the following files :
