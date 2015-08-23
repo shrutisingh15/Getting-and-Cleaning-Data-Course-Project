@@ -1,8 +1,5 @@
----
-title: "Getting and Cleaning data Course Project Codebook"
-output: html_document
----
 
+## Getting and Cleaning data Course Project Codebook
 
 
 ** The run_analysis.R script reads the experiment data and performs the following steps to generate the summary data.
